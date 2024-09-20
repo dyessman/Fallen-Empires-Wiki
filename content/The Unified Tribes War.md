@@ -8,4 +8,4 @@ The war fought between [[Dominion of Kor Overview|Kor]] and [[The Federation of 
 
 16, 3rd Era - 20, 3rd Era
 
-(See: [[Overview of The Era of Blood]], [[Satsuma Reyn]])
+(See: [[Overview of The Panazian Era of Blood]], [[Satsuma Reyn]])

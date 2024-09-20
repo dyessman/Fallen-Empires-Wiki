@@ -8,4 +8,4 @@ The war fought between [[Dominion of Kor Overview|Kor]] and [[Kingdom of Extabas
 
 238, 3rd Era - 594, 3rd Era.
 
-(See: [[Overview of The Era of Blood]])
+(See: [[Overview of The Panazian Era of Blood]])

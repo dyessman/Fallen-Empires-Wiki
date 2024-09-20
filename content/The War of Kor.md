@@ -8,4 +8,4 @@ The war fought between [[Dominion of Kor Overview|Kor]] and [[Kingdom of Extabas
 
 133, 2nd Era - 150, 2nd Era
 
-(See: [[Overview of The Era of Ashes]], [[The Assassination of Kor Sloban]], [[Declaration of Dominion]])
+(See: [[Overview of The Panazian Era of Ashes]], [[The Assassination of Kor Sloban]], [[Declaration of Dominion]])

@@ -8,4 +8,4 @@ The War fought between [[Panazia Empire Overview|The Panazia Empire]], [[Kingdom
 
 450, 1st Era - 500, 1st Era
 
-(See: [[Overview of The Imperial Era]], [[The Shattering]])
+(See: [[Overview of The Panazian Imperial Era]], [[The Shattering]])

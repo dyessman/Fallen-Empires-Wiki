@@ -4,9 +4,4 @@ draft: false
 tags:
   - races
 ---
- 
-They want to suck your blood
-
-And nothing else
-
-You perv 
+Vampires are a mysterious race of undead, presumed to not age, notably not immortal.
