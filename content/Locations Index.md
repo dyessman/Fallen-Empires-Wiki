@@ -6,9 +6,12 @@ tags:
   - "#Dominion-Towns"
   - "#League-Towns"
   - "#Konoren-Towns"
-  - "#indexes"
   - "#Fallen-Empires"
   - "#Nations"
   - "#Continents"
+  - Divine-Empire-Towns
+  - New-Extabashan-Towns
+  - Brudia-Towns
+  - indexes
 ---
  

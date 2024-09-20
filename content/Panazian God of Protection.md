@@ -7,3 +7,4 @@ tags:
 The Panazian God of Protection is the God which all Guardian Angels serve. 
 
 Notable Followers: [[Eldrele]]
+See also: [[Aasimar]], [[Fallen Guardians]]
