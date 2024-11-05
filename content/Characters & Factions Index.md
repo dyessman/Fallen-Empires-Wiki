@@ -1,5 +1,5 @@
 ---
-title: Character Index
+title: Characters & Factions Index
 draft: false
 tags:
   - 1st-Era-Characters
@@ -7,6 +7,7 @@ tags:
   - "#3rd-Era-Characters"
   - "#4th-Era-Characters"
   - Gods
+  - Factions
   - indexes
 ---
  

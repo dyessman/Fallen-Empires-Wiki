@@ -5,7 +5,7 @@ tags:
 ---
 Welcome :-)
 
-[[Character Index]]
+[[Characters & Factions Index]]
 
 [[Locations Index]]
 
@@ -14,3 +14,5 @@ Welcome :-)
 [[Races And Creatures Index]]
 
 [[World Calendar]]
+
+
