@@ -10,6 +10,7 @@ tags:
   - Divine-Empire-Towns
   - New-Extabashan-Towns
   - Brudia-Towns
+  - Neutral-Towns
   - Continents
   - Nations
   - indexes
